@@ -599,4 +599,4 @@ if('serviceWorker' in navigator) {
     .then(reg => console.log('SW registrado'))
     .catch(err => console.log('SW error:', err));
   });
-                                                 }
+  }
