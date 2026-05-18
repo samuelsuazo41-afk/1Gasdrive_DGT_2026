@@ -1,5 +1,5 @@
-// 1GASDRIVE DGT V8.2 ES - 380 PREGUNTAS DGT 2026
-const VERSION = "v8.2";
+// 1GASDRIVE DGT V8.3 ES - 380 PREGUNTAS DGT 2026
+const VERSION = "v8.3";
 
 // COMBO DOPAMINA
 const EMOJIS_ACIERTO = ['🚀','💎','👑','🔥','💯','⚡','🏆','🦄','🤑','✅','💪','😎','🎯','💥','🌟','🎉'];
@@ -57,7 +57,7 @@ const COCHES = [
   {id:'c1',nom:'SEAT Ibiza',emoji:'🚗',precio:200,cv:90},
   {id:'c2',nom:'VW Golf GTI',emoji:'🛻',precio:800,cv:220},
   {id:'c3',nom:'BMW M3',emoji:'🚘',precio:1500,cv:420},
-  {id:'c4',nom:'Tesla Model' S',emoji:'⚡',precio:2000,cv:670},
+  {id:'c4',nom:'Tesla Model S',emoji:'⚡',precio:2000,cv:670},
   {id:'c5',nom:'Porsche 911',emoji:'🛡',precio:2500,cv:450},
   {id:'c6',nom:'Bugatti Chiron',emoji:'⚔',precio:5000,cv:1500},
   {id:'c7',nom:'Yamaha R1',emoji:'🏍️',precio:2200,cv:200},
